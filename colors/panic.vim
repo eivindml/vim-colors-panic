@@ -126,3 +126,4 @@ elseif &background == "dark"
     hi Identifier gui=NONE guifg=NONE guibg=NONE
     hi PreProc gui=NONE guifg=NONE guibg=NONE
 endif
+

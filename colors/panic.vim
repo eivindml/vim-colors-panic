@@ -90,7 +90,7 @@ elseif &background == "dark"
     hi ModeMsg gui=NONE guifg=NONE guibg=NONE
     hi MoreMsg gui=NONE guifg=NONE guibg=NONE
     hi NonText gui=NONE guifg=#152637 guibg=#152637
-    hi Normal gui=NONE guifg=#f8f8f2 guibg=#152637
+    hi Normal gui=NONE guifg=#fd5d60 guibg=#152637
     hi Number gui=NONE guifg=#846bc7 guibg=NONE
     hi Pmenu gui=NONE guifg=NONE guibg=#1a1a1a
     hi PmenuSbar gui=NONE guifg=NONE guibg=#262626
@@ -105,13 +105,13 @@ elseif &background == "dark"
     hi SpellCap gui=undercurl guisp=NONE guifg=NONE guibg=NONE
     hi SpellLocal gui=undercurl guisp=NONE guifg=NONE guibg=#082608
     hi SpellRare gui=undercurl guisp=NONE guifg=NONE guibg=#262626
-    hi Statement gui=NONE guifg=#f8f8f2 guibg=NONE
+    hi Statement gui=NONE guifg=#fd5d60 guibg=NONE
     hi StatusLine gui=NONE guifg=#344760 guibg=#101a28
     hi StatusLineNC gui=NONE guifg=#707070 guibg=#262626
     hi StorageClass gui=NONE guifg=#4ae845 guibg=NONE
     hi String gui=NONE guifg=#fcca5f guibg=NONE
     hi TabLine gui=NONE guifg=#27364e guibg=#101928
-    hi TabLineFill gui=NONE guifg=NONE guibg=#0f141f
+    hi TabLineFill gui=NONE guifg=NONE guibg=#101928
     hi TabLineSel gui=NONE guifg=#838c95 guibg=#152637
     hi Title gui=NONE guifg=#f8f8f2 guibg=NONE
     hi Todo gui=standout guifg=NONE guibg=NONE

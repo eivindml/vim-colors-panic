@@ -125,5 +125,7 @@ elseif &background == "dark"
     hi lCursor gui=NONE guifg=NONE guibg=NONE
     hi Identifier gui=NONE guifg=NONE guibg=NONE
     hi PreProc gui=NONE guifg=NONE guibg=NONE
+    # Added
+    hi phpStatement guifg=#77D5E7
 endif
 
